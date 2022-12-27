@@ -1,0 +1,8 @@
+print(50 == 50)
+print(50 != 60)
+print(50 > 30)
+print(True != False)
+print(50 == 60)
+print(50 != 50)
+print(50 < 30)
+print(True == False)
