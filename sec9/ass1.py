@@ -10,8 +10,8 @@ match(operation):
         result = num_one - num_two
         print(f"{num_one} - {num_two} = {result}")
     case "*":
-        result = num_one + num_two
+        result = num_one * num_two
         print(f"{num_one} * {num_two} = {result}")
     case "/":
-        result = num_one + num_two
+        result = num_one / num_two
         print(f"{num_one} / {num_two} = {result}")
