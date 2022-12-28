@@ -1,7 +1,7 @@
 age = float(input("What's your age? "))
 age_months = age * 12
 age_weeks = age_months * 4
-age_days = age_weeks * 7
+age_days = age * 365
 age_houres = age_days * 24
 age_minutes = age_houres * 60
 age_seconds = age_minutes * 60
